@@ -1,5 +1,4 @@
-### Hi there 👋
-## 깃 허브 프로필 꾸미는 중
+![프로필](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=백엔드%20개발자가%20되고%20싶은%20이상준입니다.&fontSize=40)
 <!--
 **toodifficult1/toodifficult1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
