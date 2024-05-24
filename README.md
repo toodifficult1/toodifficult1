@@ -10,7 +10,8 @@
 
 ![로고명](https://img.shields.io/badge/로고명-배경색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상이름)
 
-![Static Badge](https://img.shields.io/badge/Java-000000?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk)
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toodifficult1&layout=compact)
